@@ -1,0 +1,6 @@
+{
+  "name": "ذاكرة مفردات جزء عم للأطفال",
+  "description": "لعبة كروت ذاكرة تعليمية باللغة العربية للأطفال لمطابقة مفردات جزء عم من القرآن الكريم بطريقة ممتعة وتفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
